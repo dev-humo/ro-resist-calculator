@@ -1,0 +1,14 @@
+{
+  "name": "ro-resist-calculator",
+  "version": "1.0.0",
+  "description": "Calculadora de resistencias y reducciones elementales para builds.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
